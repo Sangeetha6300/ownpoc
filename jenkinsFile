@@ -17,5 +17,7 @@ pipeline
   bat 'newman run C:/postmancollection/third.json --disable-unicode'
   }
   }
+  
+  
   }
   }
